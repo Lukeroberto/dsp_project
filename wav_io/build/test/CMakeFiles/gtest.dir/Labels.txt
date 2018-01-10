@@ -1,0 +1,13 @@
+# Target labels
+ gtest
+# Source files and their labels
+/home/luke/workspace/dsp_project/wav_io/build/test/CMakeFiles/gtest
+/home/luke/workspace/dsp_project/wav_io/build/test/CMakeFiles/gtest.rule
+/home/luke/workspace/dsp_project/wav_io/build/test/CMakeFiles/gtest-complete.rule
+/home/luke/workspace/dsp_project/wav_io/build/test/gtest/src/gtest-stamp/gtest-install.rule
+/home/luke/workspace/dsp_project/wav_io/build/test/gtest/src/gtest-stamp/gtest-mkdir.rule
+/home/luke/workspace/dsp_project/wav_io/build/test/gtest/src/gtest-stamp/gtest-download.rule
+/home/luke/workspace/dsp_project/wav_io/build/test/gtest/src/gtest-stamp/gtest-update.rule
+/home/luke/workspace/dsp_project/wav_io/build/test/gtest/src/gtest-stamp/gtest-patch.rule
+/home/luke/workspace/dsp_project/wav_io/build/test/gtest/src/gtest-stamp/gtest-configure.rule
+/home/luke/workspace/dsp_project/wav_io/build/test/gtest/src/gtest-stamp/gtest-build.rule

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/tests.dir/read_test.cpp.o CMakeFiles/tests.dir/write_test.cpp.o CMakeFiles/tests.dir/main.cpp.o  -o tests gtest/src/gtest-build/googlemock/gtest/libgtest.a -lpthread 
